@@ -8,6 +8,7 @@ plugins {
     java
 }
 
+
 val detektVersion by extra("1.23.1")
 val springCloudVersion by extra("2022.0.3")
 val netflixEurekaVersion by extra("4.0.3")
